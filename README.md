@@ -1,6 +1,6 @@
 # CLTV Prediction Project
 
-In this project, **BND Gamma models** were used to predict **Customer Lifetime Value (CLTV)**. The modeling process involved analyzing customer behavior using statistical analysis techniques and forecasting future revenue potential.
+📊 I estimated the Customer Lifetime Value (CLTV) using BG/NBD and Gamma Gamma models! 🚀📈 I predicted future customer values ​​for a 6-month period by applying statistical analysis techniques in the modeling process. 🔍📑 The forecast results I divided into segments provided an important reference for strategic decisions that could be made. 🎯
 
 ## Methods and Tools Used
 - **BND Gamma Models**
